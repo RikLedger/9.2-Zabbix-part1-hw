@@ -51,6 +51,7 @@ systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
 ```
 ![1-1](./9.2-1-001.jpg)
+![1-2](./9.2-1-002.jpg)
 ---
 
 ### Задание 2 
