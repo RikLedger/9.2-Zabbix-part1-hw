@@ -87,6 +87,7 @@ sudo systemctl restart zabbix-agent
 ```bash
 sudo systemctl enable zabbix-agent
 ```
-[2-1](./9.2-2-001.jpg)
-[2-2](./9.2-2-002.jpg)
-[2-3](./9.2-2-003.jpg)
+![2-1](./9.2-2-001.jpg)
+![2-2](./9.2-2-002.jpg)
+![2-3](./9.2-2-003.jpg)
+
